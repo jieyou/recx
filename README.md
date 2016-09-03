@@ -1,7 +1,3 @@
-<!-- h1. 中文 -->
-
-<!-- "for English please click":#english -->
-
 # recx.js
 
 这个javascript组件，记录用户在页面上的输入和选择，当用户下一次载入该页面时，还原上次的输入和选择。进而达到降低用户成本，提高用户体验的目的。
@@ -17,7 +13,6 @@
 * iOS 3.2+
 * Android 2.1+
 
-<!-- h2. 当前用户 --><!-- * "百度地图":http://map.baidu.com/ --><!-- * "百度团购":http://tuan.baidu.com/ --><!-- * +You -->
 
 ## 如何使用?
 
@@ -26,10 +21,6 @@
 在你HTML代码的尾部引入recx.js：
 
 	<script src="recx.js"></script>
-
-<!-- 你也可以使用我们的CDN服务器： -->
-
-<!-- <script src="??????????"></script> -->
 
 或者使用AMD、CMD、Kissy兼容的模块加载器：
 
